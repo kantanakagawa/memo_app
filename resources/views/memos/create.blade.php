@@ -24,4 +24,4 @@
         <input type="submit" value="登録">
     </form>
 </body>
-</html> 
+</html>     
